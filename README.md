@@ -1,6 +1,6 @@
 <H3>NAME   : HARISHKUMAR R</H3>
 <H3>REG-NO : 212223230073</H3>
-<H3>Date</H3>
+<H3>Date : 12/05/26</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
